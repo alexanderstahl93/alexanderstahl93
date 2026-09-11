@@ -1,16 +1,31 @@
-## Hi there 👋
+# Alexander Stahl
 
-<!--
-**alexanderstahl93/alexanderstahl93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems for real-world operations.
 
-Here are some ideas to get you started:
+Founder of [Simple AI](https://simpleai.at) in Vienna.
+I work on automation, operations intelligence and internal software
+for companies where software has to work in the real world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building
+
+- AI Operations Intelligence for logistics & fleet operations
+- Field-service quality management systems
+- AI-powered document & workflow automation
+- Data intelligence systems for SMEs
+
+### Selected work
+
+→ Operations Intelligence
+→ Field Operations / Quality Management
+→ AI Automation Toolkit
+
+### Stack
+
+Next.js · TypeScript · Python · PostgreSQL · Supabase · OpenAI · APIs
+
+### Work with me
+
+If your company has an operational process that still runs through
+Excel, WhatsApp, PDFs and manual coordination:
+
+→ https://simpleai.at
