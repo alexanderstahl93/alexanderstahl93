@@ -2,8 +2,6 @@
 
 I build AI operations systems for companies where work still moves through spreadsheets, PDFs, WhatsApp messages and disconnected software.
 
-Founder of [Simple AI](https://simpleai.at) in Vienna.
-
 ## What I work on
 
 - Operational software and internal AI tools
