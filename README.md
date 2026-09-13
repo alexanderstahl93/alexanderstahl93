@@ -1,31 +1,28 @@
 # Alexander Stahl
 
-I build AI systems for real-world operations.
+I build AI operations systems for companies where work still moves through spreadsheets, PDFs, WhatsApp messages and disconnected software.
 
 Founder of [Simple AI](https://simpleai.at) in Vienna.
-I work on automation, operations intelligence and internal software
-for companies where software has to work in the real world.
 
-### Currently building
+## What I work on
 
-- AI Operations Intelligence for logistics & fleet operations
-- Field-service quality management systems
-- AI-powered document & workflow automation
-- Data intelligence systems for SMEs
+- Operational software and internal AI tools
+- Workflow and document automation
+- Data intelligence for management decisions
+- Quality management, audit trails and field operations
+- AI search visibility for companies
 
-### Selected work
+### Internal operations systems
 
-→ Operations Intelligence
-→ Field Operations / Quality Management
-→ AI Automation Toolkit
+I also build and test software inside my own operating companies, including quality-management workflows for furniture and kitchen installations with checklists, photos, signatures, PDF documentation and audit trails.
 
-### Stack
+## Selected public work
 
-Next.js · TypeScript · Python · PostgreSQL · Supabase · OpenAI · APIs
+My older repositories document earlier experiments in machine learning, forecasting and blockchain data. Current public releases will focus on practical AI operations and business tools.
 
-### Work with me
+## Work with me
 
-If your company has an operational process that still runs through
-Excel, WhatsApp, PDFs and manual coordination:
+Simple AI builds working systems for operational SMEs — from fragmented process to deployed software.
 
-→ https://simpleai.at
+**Für Unternehmen in Österreich und DACH:**  
+[[Projekt besprechen](https://calendly.com/office-simpleai/30min)](https://simpleai.at)
